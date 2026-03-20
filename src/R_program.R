@@ -73,4 +73,14 @@ y
 source("add_three.R")
 add_three(5)
 
-#ftt
+#--------------------------------------------
+# Script Name: Basic R (object-oriented programming)
+# Purpose: This provide an overview of RStudio and show
+#          how to do some basic operations on R console, 
+#          including installing and loading packages.
+
+# Author:     Tingting Fei
+# Email:      tfei0416@gmail.com
+# Date:       2026-03-20
+# --------------------------------------------
+
